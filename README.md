@@ -1,4 +1,4 @@
----
+---updated
 name: ChatGPT + Enterprise data
 description: Chat with your data using OpenAI and AI Search.
 languages:
